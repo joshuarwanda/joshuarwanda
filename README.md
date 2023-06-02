@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&locale=en" alt="mystats" /></p>
 
-![snake](https://github.com/R3TR0Quan/R3TR0Quan/blob/output/github-contribution-grid-snake.gif)
+![snake](https://github.com/R3TR0Quan/R3TR0Quan/blob/main/dist/github-contribution-grid-snake.gif)
