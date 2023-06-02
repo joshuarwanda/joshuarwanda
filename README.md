@@ -18,8 +18,8 @@
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="40" height="40"/> </a> 
-</br>
+<!-- <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="40" height="40"/> </a> 
+</br> -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </br> -->
@@ -33,8 +33,8 @@
 <!-- <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" width="40" height="40"/> </a>  -->
 <!-- <a href="https://facebook.github.io/prophet/docs/quick_start.html" target="_blank"> <img src="https://facebook.github.io/prophet/static/wordmark.svg" alt="prophet-tsa" width="40" height="40"/> </a>  -->
-</br>
-<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sql" width="40" height="40"/> </a> 
+<!-- </br>
+<a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sql" width="40" height="40"/> </a>  -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact" alt="mylangs" /></p>
 
