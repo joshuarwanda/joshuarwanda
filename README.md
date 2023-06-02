@@ -20,8 +20,8 @@
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</br> -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</br>
 <!-- <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" width="40" height="40"/> </a>  -->
 <!-- <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </br> -->
