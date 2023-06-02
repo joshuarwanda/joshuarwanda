@@ -36,7 +36,7 @@ jobs:
         #remove old gifs
       - name: Remove old files
         run: |
-          ls -1t dist/github-contribution-grid-snake-*.gif | tail -n +11 | xargs rm --
+          ls -1t dist/github-contribution-grid-snake-*.gif | tail -n +11 | xargs rm -f --
         #commit changes
       - name: Commit changes
         run: |
