@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, My name is Joshua Rwanda</h1>
 <h3 align="center"> ML Engineer / Data scientist </h3>
+
 - 🌱 I’m currently a practicing freelance ML engineer
 - 💬 Ask me about Data Science, AI, ML, Software Development etc
 - 📫 How to reach me **joshuarwanda@gmail.com**
-
 - ⚡Call me Professor Gadget, I teach the machines⚡
+
 </br>
 
 <h3 align="left">Connect with me:</h3>
@@ -22,5 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=R3TR0Quan&show_icons=true&locale=en&layout=compact" alt="mylangs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RR3TR0Quan&show_icons=true&locale=en" alt="mystats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&locale=en" alt="mystats" /></p>
 
+![snake](https://github.com/R3TR0Quan/R3TR0Quan/blob/output/github-contribution-grid-snake.gif)
