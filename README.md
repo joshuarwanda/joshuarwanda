@@ -21,18 +21,18 @@
 <a href="https://docs.oracle.com/javase/8/docs/api/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" alt="java" width="40" height="40"/> </a> 
 </br>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-</br>
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</br> -->
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </br>
-<a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv" width="40" height="40"/> </a> 
-<a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras" width="40" height="40"/> </a> 
-</br>
-<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://facebook.github.io/prophet/docs/quick_start.html" target="_blank"> <img src="https://facebook.github.io/prophet/static/wordmark.svg" alt="prophet-tsa" width="40" height="40"/> </a> 
+<!-- <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv" width="40" height="40"/> </a> 
+<a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras" width="40" height="40"/> </a>  -->
+<!-- </br>
+<a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="pytorch" width="40" height="40"/> </a>  -->
+<!-- <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" width="40" height="40"/> </a>  -->
+<!-- <a href="https://facebook.github.io/prophet/docs/quick_start.html" target="_blank"> <img src="https://facebook.github.io/prophet/static/wordmark.svg" alt="prophet-tsa" width="40" height="40"/> </a>  -->
 </br>
 <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="sql" width="40" height="40"/> </a> 
 
