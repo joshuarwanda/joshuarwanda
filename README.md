@@ -23,9 +23,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="75" height="75"/> </a>Javascript
 <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" width="75" height="75"/> </a>SciKitLearn
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg" alt="tensorflow" width="75" height="75"/> </a>TensorFlow
+</br>
 <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv" width="75" height="75"/> </a>OpenCV
 <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras" width="75" height="75"/> </a>Keras
-</br>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" alt="pytorch" width="75" height="75"/> </a>Pytorch
 <a href="https://numpy.org/" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy" width="75" height="75"/> </a>Numpy
 <a href="https://pandas.pydata.org/docs/" target="_blank"> <img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="pandas" width="75" height="75"/> </a>  Pandas
