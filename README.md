@@ -17,7 +17,7 @@
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 
-| | |
+|||
 | --- | --- |
 |
 | Technology Stack | Image |
@@ -29,7 +29,7 @@
 | [SciKitLearn](https://scikit-learn.org/stable/) | <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/master/doc/logos/scikit-learn-logo.svg" alt="scikitlearn" width="75" height="75"/> </a> |
 | [TensorFlow](https://www.tensorflow.org/) | <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/v4adef427db21a4cd79f489fce8da23c25ef3f53705a17ddcb0611ee166b2e610/tensorflow/images/lockup.svg" alt="tensorflow" width="75" height="75"/> </a> |
 | [OpenCV](https://opencv.org/) | <a href="https://opencv.org/" target="_blank"> <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" alt="opencv" width="75" height="75"/> </a> |
-|
+ |
 | Technology Stack | Image |
 | --- | --- |
 | [Keras](https://keras.io/) | <a href="https://keras.io/" target="_blank"> <img src="https://keras.io/img/logo-small.png" alt="keras" width="75" height="75"/> </a> |
