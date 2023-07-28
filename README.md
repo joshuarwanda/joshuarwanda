@@ -1,8 +1,7 @@
 <h1 align="center">Hello There....<img src="" width="28px" alt="👋"></h1>
 
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
-    ![snake](./github-contibution-grid-snake.svg)
+    <b>Welcome to my page!</b><br>
     <i>
         I'm Joshua Rwanda.<br>
         Machine Learning Engineer and Full Stack data scientist with an interest in Learning Representations <br>   
