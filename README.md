@@ -2,6 +2,10 @@
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="github-snake.svg" />
+    </picture>
     <i>
         I'm Joshua Rwanda.<br>
         Machine Learning Engineer and Full Stack data scientist with an interest in Learning Representations <br>   
