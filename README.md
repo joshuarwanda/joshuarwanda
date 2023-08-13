@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="</img/hello.gif>" alt="Banner" width="800px">
+  <img src="img/hello.gif" alt="Banner" width="800px">
 </p>
 <h1 align="center">🤗</h1>
 
