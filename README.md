@@ -81,4 +81,8 @@
   </a>
 </p>
 
-![GitHub Grade](https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&theme=dark">
+</p>
+
+<!-- ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&theme=dark) -->
