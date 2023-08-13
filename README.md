@@ -7,7 +7,7 @@
     <b>Welcome to my page!</b><br>
     <i>
         I'm Joshua Rwanda.<br>
-        Machine Learning Engineer and Full Stack data scientist with an interest in Learning Representations <br>   
+        Machine Learning Engineer and Full Stack data scientist with a particular interest in Representation Learning and Computer hardware <br>   
 </i><br>
     <a href="[https://www.linkedin.com/in/peter-o-maturwe-ab860020a/](https://www.linkedin.com/in/joshua-rwanda-a902b51a6/)">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
