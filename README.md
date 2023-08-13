@@ -1,5 +1,7 @@
-[![Banner](/img/hello.gif)](#)
-<h1 align="center">🤗<img src="" width="28px" alt="🤗"></h1>
+<p align="center">
+  <img src="<img/hello.gif>" alt="Banner" width="800px">
+</p>
+<h1 align="center">🤗</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br>
