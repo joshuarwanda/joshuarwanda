@@ -1,4 +1,5 @@
-<h1 align="center">Hello There....<img src="" width="28px" alt="👋"></h1>
+[![Banner](/img/hello.gif)](#)
+<h1 align="center">🤗<img src="" width="28px" alt="🤗"></h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br>
