@@ -24,14 +24,14 @@
 </p>
 
 ### Skills
+![Collaboration](https://img.shields.io/badge/-Collaboration-purple)
+![Data Science](https://img.shields.io/badge/-Data%20Science-critical)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blue)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-orange)
-![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-green)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-red)
-![Data Science](https://img.shields.io/badge/-Data%20Science-yellow)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-brightgreen)
-![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-lightgrey)
-![Collaboration](https://img.shields.io/badge/-Collaboration-critical)
+![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-lightgreen)
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-lightgreen)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-lightgreen)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-grey)
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/R3TR0Quan)
