@@ -33,6 +33,7 @@
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-lightgreen)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-lightgreen)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-grey)
+![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-grey)
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/R3TR0Quan)
