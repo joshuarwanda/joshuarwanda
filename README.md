@@ -25,7 +25,8 @@
 
 ### Skills
 ![Collaboration](https://img.shields.io/badge/-Collaboration-purple)
-![Data Science](https://img.shields.io/badge/-Data%20Science-critical)
+![Data Science](https://img.shields.io/badge/-Data%20Science-orange)
+![Data Engineering](https://img.shields.io/badge/-Data%20Science-blue)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blue)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
 ![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-lightgreen)
