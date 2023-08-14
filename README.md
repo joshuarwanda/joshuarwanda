@@ -2,8 +2,8 @@
   <img src="img/hello.gif" alt="Banner" height='256px' width="800px">
 </p>
 
-<a href="https://example.com" align="center">
-  🤗
+<a href="https://huggingface.co/r3tr0quan">
+  <b>🤗</b>
 </a>
 
 <p align="center">
