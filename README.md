@@ -12,14 +12,14 @@
         I'm Joshua Rwanda.<br>
         Machine Learning Engineer and Full Stack data scientist with a particular interest in Representation Learning and Computer hardware <br>   
 </i><br>
-    <a href="[https://www.linkedin.com/in/peter-o-maturwe-ab860020a/](https://www.linkedin.com/in/joshua-rwanda-a902b51a6/)">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/joshua-rwanda-a902b51a6">
+        <img src="https://img.shields.io/badge/LinkedIn-purple?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://www.kaggle.com/joshuarwanda">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
+        <img src="https://img.shields.io/badge/Kaggle-purple?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
     <a href="https://leetcode.com/joshuarwanda/">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
+        <img src="https://img.shields.io/badge/LeetCode-purple?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
 </p>
 
