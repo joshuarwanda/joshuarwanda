@@ -1,7 +1,10 @@
 <p align="center">
   <img src="img/hello.gif" alt="Banner" height='256px' width="800px">
 </p>
-<h1 align="center">🤗</h1>
+
+<a href="https://example.com" align="center">
+  🤗
+</a>
 
 <p align="center">
     <b>Welcome to my page!</b><br>
