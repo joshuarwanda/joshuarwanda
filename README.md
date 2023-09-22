@@ -34,11 +34,11 @@
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-blue)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blue)
 ![Model Deployment](https://img.shields.io/badge/-Model%20Deployment-lightgreen)
-![Supervised Learning](https://img.shields.io/badge/-Model%20Deployment-lightgreen)
-![Unsupervised Learning](https://img.shields.io/badge/-Model%20Deployment-grey)
+![Supervised Learning](https://img.shields.io/badge/-Supervised%20Learning-lightgreen)
+![Unsupervised Learning](https://img.shields.io/badge/-Unsupervised%20Learning-grey)
 ![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-grey)
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-grey)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-lightgreen)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-lightgrey)
 ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-lightgrey)
 
 ### Languages
