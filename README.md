@@ -29,6 +29,18 @@
 
 
 
+
+
+<p align="center">
+  <a href="https://github.com/R3TR0Quan">
+    <img src="https://komarev.com/ghpvc/?username=Ramatich&color=blue&style=flat)" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&theme=dark">
+</p>
+
 <p align="center">
 <details>
   <a href="https://github.com/R3TR0Quan">
@@ -45,15 +57,4 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/R3TR0Quan">
-    <img src="https://komarev.com/ghpvc/?username=Ramatich&color=blue&style=flat)" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&theme=dark">
-</p>
-
 <!-- ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=R3TR0Quan&show_icons=true&theme=dark) -->
