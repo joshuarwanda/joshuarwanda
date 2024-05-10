@@ -27,9 +27,9 @@
 
 <p>
 
+<p align="center">
 ### Details
 <details>
-<p align="center">
   <a href="https://github.com/R3TR0Quan">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3TR0Quan&theme=transparent" />
   </a>
