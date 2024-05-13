@@ -9,9 +9,7 @@
 </a>
 
 <p align="center">
-    <i>
-        The name, is Rwanda.<br> 
-</i><br>
+<br>
     <a href="https://www.linkedin.com/in/joshua-rwanda-a902b51a6">
         <img src="https://img.shields.io/badge/LinkedIn-purple?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
