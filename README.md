@@ -42,16 +42,16 @@
 <p align="center">
 <details>
   <a href="https://github.com/R3TR0Quan">
-    <img src="" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3TR0Quan&theme=transparent" />
   </a>
   <a href="https://github.com/R3TR0Quan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3TR0Quan&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/R3TR0Quan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramatich&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=R3TR0Quan&theme=transparent" />
   </a>
   <a href="https://github.com/R3TR0Quan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&langs_count=10&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR0Quan&langs_count=9&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
 </p>
 </details>
