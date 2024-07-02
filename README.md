@@ -42,7 +42,7 @@
 <p align="center">
 <details>
   <a href="https://github.com/R3TR0Quan">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R3TR0Quan&theme=transparent" />
+    <img src="" />
   </a>
   <a href="https://github.com/R3TR0Quan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=R3TR0Quan&hide_border=true&card_width=338&theme=transparent" />
