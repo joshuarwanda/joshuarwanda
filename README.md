@@ -19,11 +19,12 @@
     <a href="https://leetcode.com/joshuarwanda/">
         <img src="https://img.shields.io/badge/LeetCode-purple?style=flat-square&logo=LeetCode" alt="LeetCode">
     </a>
-     <a href="https://dagshub.com/R3TR0Quan">
+    <a href="https://dagshub.com/R3TR0Quan">
         <img src="https://img.shields.io/badge/DagsHub-purple?style=flat-square&logo=dagshub" alt="DagsHub">
     </a>
-    [![Project Euler](https://img.shields.io/badge/Project%20Euler-My%20Profile-brightgreen)](https://projecteuler.net/profile/joshuarwanda.png)
-
+    <a href="https://projecteuler.net/profile/joshuarwanda.png">
+        <img src="https://img.shields.io/badge/DagsHub-purple?style=flat-square&logo=dagshub" alt="Project Euler">
+    </a>
 
 <p>
 
