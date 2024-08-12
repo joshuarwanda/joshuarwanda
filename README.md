@@ -23,7 +23,7 @@
         <img src="https://img.shields.io/badge/DagsHub-purple?style=flat-square&logo=dagshub" alt="DagsHub">
     </a>
     <a href="https://projecteuler.net/profile/joshuarwanda.png">
-        <img src="https://img.shields.io/badge/DagsHub-purple?style=flat-square&logo=dagshub" alt="Project Euler">
+        <img src="https://img.shields.io/badge/ProjectEuler-purple?style=flat-square&logo=dagshub" alt="Project Euler">
     </a>
 
 <p>
