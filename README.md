@@ -22,9 +22,8 @@
      <a href="https://dagshub.com/R3TR0Quan">
         <img src="https://img.shields.io/badge/DagsHub-purple?style=flat-square&logo=dagshub" alt="DagsHub">
     </a>
-    <a href="https://projecteuler.net/profile/joshuarwanda.png">
-        <img src="https://img.shields.io-badge/ProjectEuler-purple?style=flat-square&logo=projecteuler" alt="Project Euler">
-    </a>
+    [![Project Euler](https://img.shields.io/badge/Project%20Euler-My%20Profile-brightgreen)](https://projecteuler.net/profile/joshuarwanda.png)
+
 
 <p>
 
