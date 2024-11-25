@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/joshuarwanda">
-    <img src="https://komarev.com/ghpvc/?username=Ramatich&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=joshuarwanda&color=blue&style=flat)" />
   </a>
 </p>
 
