@@ -25,12 +25,7 @@
     <a href="https://projecteuler.net/profile/joshuarwanda.png">
         <img src="https://img.shields.io/badge/ProjectEuler-purple?style=flat-square&logo=dagshub" alt="Project Euler">
     </a>
-
 <p>
-
-
-
-
 
 <p align="center">
   <a href="https://github.com/joshuarwanda">
@@ -43,18 +38,21 @@
 </p>
 
 <p align="center">
-<Details>
-  <a href="https://github.com/joshuarwanda">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuarwanda&theme=transparent" />
-  </a>
-  <a href="https://github.com/joshuarwanda">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuarwanda&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/joshuarwanda">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuarwanda&theme=transparent" />
-  </a>
-  <a href="https://github.com/joshuarwanda">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuarwanda&langs_count=9&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+<Details align="center">
+  <summary align="center">Details</summary>
+  <div align="center">
+    <a href="https://github.com/joshuarwanda">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuarwanda&theme=transparent" />
+    </a>
+    <a href="https://github.com/joshuarwanda">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshuarwanda&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/joshuarwanda">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuarwanda&theme=transparent" />
+    </a>
+    <a href="https://github.com/joshuarwanda">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuarwanda&langs_count=9&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
+    </a>
+  </div>
 </Details>
 <!-- ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=joshuarwanda&show_icons=true&theme=dark) -->
