@@ -42,9 +42,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=joshuarwanda&show_icons=true&theme=dark">
 </p>
 
-
-<More>
-  <p align="center">
+<p align="center">
+<Details>
   <a href="https://github.com/joshuarwanda">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuarwanda&theme=transparent" />
   </a>
@@ -57,5 +56,5 @@
   <a href="https://github.com/joshuarwanda">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuarwanda&langs_count=9&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
-</More>
+</Details>
 <!-- ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=joshuarwanda&show_icons=true&theme=dark) -->
