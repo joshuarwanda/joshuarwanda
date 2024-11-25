@@ -57,6 +57,5 @@
   <a href="https://github.com/joshuarwanda">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuarwanda&langs_count=9&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
   </a>
-  </p>
 </More>
 <!-- ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=joshuarwanda&show_icons=true&theme=dark) -->
