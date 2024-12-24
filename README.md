@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/joshuarwanda">
-    <img src="https://komarev.com/ghpvc/?username=joshuarwanda&color=green&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=joshuarwanda&color=blue&style=flat)" />
   </a>
 </p>
 
@@ -55,4 +55,4 @@
     </a>
   </div>
 </Details>
-![GitHub Grade](https://github-readme-stats.vercel.app/api?username=joshuarwanda&show_icons=true&theme=dark)
+<!-- ![GitHub Grade](https://github-readme-stats.vercel.app/api?username=joshuarwanda&show_icons=true&theme=dark) -->
