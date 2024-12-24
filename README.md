@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/joshuarwanda">
-    <img src="https://komarev.com/ghpvc/?username=joshuarwanda&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=joshuarwanda&color=purple&style=flat)" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuarwanda&theme=transparent" />
     </a>
     <a href="https://github.com/joshuarwanda">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuarwanda&langs_count=9&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuarwanda&langs_count=5&exclude_repo=&hide=layout=default&card_width=699&hide_border=true&theme=transparent" />
     </a>
   </div>
 </Details>
