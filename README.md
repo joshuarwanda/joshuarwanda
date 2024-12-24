@@ -45,7 +45,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuarwanda&theme=transparent" />
     </a>
     <a href="https://github.com/joshuarwanda">
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=joshuarwanda)](https://git.io/streak-stats)
+      <img src="https://streak-stats.demolab.com/?user=joshuarwanda">
     </a>
     <a href="https://github.com/joshuarwanda">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuarwanda&theme=transparent" />
