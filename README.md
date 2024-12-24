@@ -45,7 +45,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuarwanda&theme=transparent" />
     </a>
     <a href="https://github.com/joshuarwanda">
-      <img src="https://api.rigle.co/github-streak/stats/[joshuarwanda]" />
+      <img src="https://api.rigle.co/github-streak/stats/joshuarwanda" />
     </a>
     <a href="https://github.com/joshuarwanda">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuarwanda&theme=transparent" />
