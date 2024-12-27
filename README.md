@@ -10,9 +10,9 @@
 
 <p align="center">
 <br>
-    <a href="https://www.linkedin.com/in/joshua-rwanda-a902b51a6">
+<!--     <a href="https://www.linkedin.com/in/joshua-rwanda-a902b51a6">
         <img src="https://img.shields.io/badge/LinkedIn-purple?style=flat-square&logo=linkedin" alt="LinkedIn">
-    </a>
+    </a> --> 
     <a href="https://www.kaggle.com/joshuarwanda">
         <img src="https://img.shields.io/badge/Kaggle-purple?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
