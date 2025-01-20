@@ -45,7 +45,7 @@
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshuarwanda&theme=transparent" />
     </a>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=joshuarwanda&theme=dark&exclude_days=Sun" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=joshuarwanda&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" />
     </a>
     <a href="https://github.com/joshuarwanda">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=joshuarwanda&theme=transparent" />
